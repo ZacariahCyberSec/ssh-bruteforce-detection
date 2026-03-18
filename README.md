@@ -1,11 +1,11 @@
 ### Attack Simulation
-![Terminal](./1-ssh-attack-terminal.jpg)
+![Terminal](./1-ssh-attack-terminal..jpg)
 
 ### SSH Traffic Capture
-![Capture](./2-wireshark-capture.jpg)
+![Capture](./2-wireshark-capture..jpg)
 
 ### Filtered Traffic
-![Filter](./3-ssh-filter.jpg)
+![Filter](./3-ssh-filter..jpg)
 
 ### Conversation Analysis
-![Conversations](./4-conversations-analysis.jpg)
+![Conversations](./4-conversations-analysis..jpg)
